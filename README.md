@@ -1,16 +1,19 @@
-# dummy
+# AI based Rubik's Cube Solver using Flutter and Python
 
-A new Flutter project.
+Mobile app for solving 3*3 Rubik's Cube.
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+ <p align="center">
+  <img src="https://github.com/brinesoftwares/Flutter-AI-Rubik-cube-Solver/blob/master/screenshots/ss2.jpg?raw=true" width="300" >
+  <img src="https://github.com/brinesoftwares/Flutter-AI-Rubik-cube-Solver/blob/master/screenshots/ss1.jpg?raw=true" width="300" >
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Python Libraries
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  - Flask (https://pypi.org/project/Flask/)
+  - Numpy (https://pypi.org/project/numpy/)
+  - Rubik Solver (https://pypi.org/project/rubik-solver/)
+  - Rubiks Cube Tracker (https://github.com/dwalton76/rubiks-cube-tracker)
+  - OpenCV (https://pypi.org/project/opencv-python/)
+ 
